@@ -7,6 +7,7 @@
       "email": "bikash.online@gmail.com"
     }
   ],
+  "license": "MIT",
   "minimum-stability": "dev",
   "require": {
     "php": ">=5.5.9"
