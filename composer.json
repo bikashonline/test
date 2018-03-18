@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "type":"php-plugin",
+  "authors": [
+    {
+      "name": "Test test",
+      "email": "bikash.online@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=5.5.9",
+  },
+  "autoload": {
+    "psr-4": {
+      "FileUpload\\": "src"
+    }
+  }
+}
